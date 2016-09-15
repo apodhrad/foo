@@ -1,0 +1,11 @@
+Rule Compilation error Only a type can be imported. com.sample.DroolsTest.Message resolves to a package
+Only a type can be imported. org.drools.core.spi.KnowledgeHelper resolves to a package
+KnowledgeHelper cannot be resolved to a type
+com.sample.DroolsTest.Message cannot be resolved to a type
+org.kie.api.runtime.rule.FactHandle cannot be resolved to a type
+org.kie.api.runtime.rule.FactHandle cannot be resolved to a type
+java.lang.Exception cannot be resolved to a type
+org.kie.api.runtime.rule.RuleContext cannot be resolved to a type
+Message.GOODBYE cannot be resolved to a type
+org.drools.core.util.bitmask.AllSetBitMask cannot be resolved to a type
+com.sample.DroolsTest.Message cannot be resolved to a type
